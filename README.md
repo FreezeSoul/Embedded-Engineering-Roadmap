@@ -495,6 +495,7 @@ Low-level languages like C and assembly provide direct hardware access, enabling
 - [🎞️ The Future of Programming: Rust (YouTube Playlist)](https://www.youtube.com/playlist?list=PLc7W4b0WHTAUAEAguiqpNa5H0QqXJIJI6)
 - [🔗 Community Rust support projects for STM32 microcontrollers](https://github.com/stm32-rs)
 - [🔗 Rust on ESP Community](https://github.com/esp-rs)
+- [🎞️ Embedded Rust su ESP32 (Italian) - YouTube Playlist](https://www.youtube.com/playlist?list=PLT--ndZEB54ek5_Zv6x6WCioh5m35zh5i)
 - [📝 Rust on STM32: Getting started](https://jonathanklimt.de/electronics/programming/embedded-rust/rust-on-stm32-2/)
 - [📝 From Zero to main(): Bare metal Rust](https://interrupt.memfault.com/blog/zero-to-main-rust-1)
 - [📝 Writing an OS in Rust - Philipp Oppermann's blog](https://os.phil-opp.com/)

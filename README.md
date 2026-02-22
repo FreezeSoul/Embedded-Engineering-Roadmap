@@ -538,6 +538,7 @@ Some popular microcontroller families include AVR, PIC, STM32, MSP430, nRF, and 
 - [📘💎 Embedded Systems Design using the MSP430FR2355 LaunchPad - Brock J. LaMeres](https://link.springer.com/book/10.1007/978-3-030-40574-8)
 - [📘💎 Building Embedded Systems: Programmable Hardware - Changyi Gu](https://link.springer.com/book/10.1007/978-1-4842-1919-5)
 - [🔗 Awesome Embedded: A curated list of awesome embedded programming](https://github.com/nhivp/Awesome-Embedded)
+- [🔗 Awesome Electronics: A curated list of electronics resources](https://github.com/kitspace/awesome-electronics)
 
 #### 🔵 GPIO
 
@@ -680,6 +681,10 @@ Embedded systems often communicate with other devices or external systems via in
 - [📝 PCM Terminology and Concepts](https://larsimmisch.github.io/pyalsaaudio/terminology.html)
 
 #### 🔵 Display & Camera Protocols
+
+##### 🔶 SCCB
+
+- [🔗 SCCB Specification (PDF)](https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/f2021/jfw225_aei23_dsb298/jfw225_aei23_dsb298/SCCBSpec_AN.pdf)
 
 ##### 🔶 MIPI CSI-2
 
